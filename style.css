@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color: rgb(242, 243, 255);
+    color: rgb(17, 0, 255);
+    display: flex;
+    justify-content: center;
+}
+.card{
+    background-color: aqua;
+}
+table{
+    border: 1px solid rgb(0, 234, 255);
+    width: 1000px;
+}
+thead tr th{
+    border: 1px solid rgb(0, 221, 255);
+}
+tbody tr{
+    border: 1px solid rgb(255, 128, 0);
+    
+}
+tbody tr td{
+    border: 1px solid rgb(0, 255, 255);
+    width: 100px;
+}
