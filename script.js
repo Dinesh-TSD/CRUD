@@ -22,7 +22,8 @@ let row = `
     
    
 }
-
+displayData();
+// Function to display data in the table
 function handleFormSubmit(event){
     event.preventDefault();
     const nameInput = document.getElementById("name");
